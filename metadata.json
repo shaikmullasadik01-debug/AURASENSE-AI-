@@ -1,0 +1,6 @@
+{
+  "name": "AuraSense AI",
+  "description": "Your Body Speaks. AI Understands. A contactless human-sensing interface powered by Presage SmartSpectra and real-time optical vitals intelligence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
